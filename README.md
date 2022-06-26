@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**llancruzz/llancruzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hello There 👋
+ 
+I'm Alan Cruz, a pending Full Stack Software Developer based in Ireland. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate Full Stack Software Developer in progress with a background in Business Administration, Project Management, HR (Human Resources) and Accouting. 
+
+After a number of years, I've finally found what I wish I has been doing all along - better late than never.
+
+I found the right path after realising I was always being asked to pick up the more technical aspects of projects and enjoyed carrying them out. I've always liked technologies, design and always learning new skills. After some research and guidance from others in the industry, I enrolled with the [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma-uk/)
+
+So here I am, learning everything I can right now, figuring out the problems as I go and looking forward to the new world ahead. 
+
+
+
