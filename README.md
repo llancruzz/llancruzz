@@ -44,8 +44,11 @@ I found the right path after realising I was always being asked to pick up the m
 ### 🔄 Underway
 
 ![Alan Cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=llancruzz&show_icons=true&theme=prussian)
-
-[![Alan Cruz Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llancruzz&layout=prussian)](https://github.com/anuraghazra/github-readme-stats)
+     
+<a href="https://github.com/llancruzz">
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=llancruzz&show_icons=true&theme=prussian" alt="Alan GitHub Stats" /> -->
+  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=llancruzz&theme=prussian" alt="Alan Languages Used Stats" width="410" /></p>
+</a>
 
 
 
