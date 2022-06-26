@@ -2,7 +2,7 @@
 
 ### Hello There 👋
  
-I'm Alan Cruz, a pending <strong>Full Stack Software Developer</strong> based in Ireland. 
+I'm Alan Cruz, a pending <strong>Full Stack Software Developer</strong> based in Ireland. ( Start: April / 2022 - End: April / 2023 )
 
 Passionate <strong>Full Stack Software Developer</strong> in progress with a background in Business Administration, Project Management, HR (Human Resources) and Accounting. 
 
@@ -39,9 +39,14 @@ I found the right path after realising I was always being asked to pick up the m
     HTML / CSS / Java Scripts & JQuery - By Jon Duckett (Author)
     <br>
     Python Crash Course - By Eric Matthes (Author)
-
 </ul>
-<br/>
+
+### ⚡ Underway
+
+![Alan Cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=llancruzz&show_icons=true&theme=prussian)
+
+[![Alan Cruz Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llancruzz&layout=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
