@@ -1,6 +1,6 @@
 ![Alan Banner](https://raw.githubusercontent.com/llancruzz/llancruzz/main/alan-banner.png)
 
-### Hello There 👋
+### Hello There 🌎
  
 I'm Alan Cruz, a pending <strong>Full Stack Software Developer</strong> based in Ireland. ( Start: April / 2022 - End: April / 2023 )
 
@@ -12,7 +12,7 @@ I found the right path after realising I was always being asked to pick up the m
 
 <em>So here I am, learning everything I can right now, figuring out the problems as I go and looking forward to the new world ahead.</em> 
 
-### 📫 How to reach me
+### 📫 How to reach me:
 <code><a href="https://www.linkedin.com/in/alan-cruz-da-silva-250890114/" target="_blank"> <img src="https://user-images.githubusercontent.com/60085587/106135088-766bee80-618d-11eb-9a86-cf9ca3ba565b.png" width="40" title="Linkedin"></a></code>
 <code><a href="https://stackoverflow.com/users/19213456/alan-cruz" target="_blank"> <img src="https://user-images.githubusercontent.com/82349074/167174810-3ee451b0-1392-4c72-bcfd-d725e7a82b86.png" width="40" title="Stack overflow"></a></code>
 
@@ -36,12 +36,12 @@ I found the right path after realising I was always being asked to pick up the m
     <li><b>My Helping Hands:</b> StackoverFlow, GeeksforGeeks and W3schools</li>
     <li><b> Books References:</b>
     <br>
-    HTML / CSS / Java Scripts & JQuery - By Jon Duckett (Author)
-    <br>
-    Python Crash Course - By Eric Matthes (Author)
-</ul>
+<ol type="1">
+ <li>HTML / CSS / Java Scripts & JQuery - By Jon Duckett (Author)</li>
+ <li>Python Crash Course - By Eric Matthes (Author)</li>
+</ol>
 
-### ⚡ Underway
+### 🔄 Underway
 
 ![Alan Cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=llancruzz&show_icons=true&theme=prussian)
 
