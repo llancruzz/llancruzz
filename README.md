@@ -4,7 +4,7 @@
  
 I'm Alan Cruz, a pending <strong>Full Stack Software Developer</strong> based in Ireland. ( Start: April / 2022 - End: April / 2023 )
 
-Passionate <strong>Full Stack Software Developer</strong> in progress with a background in Business Administration, Project Management, HR (Human Resources) and Accounting. 
+Passionate <strong>Full Stack Software Developer</strong> in progress with a background in Business Administration, HR (Human Resources) and Accounting. 
 
 After a number of years, I've finally found what I wish I has been doing all along - Better late than never!
 
