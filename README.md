@@ -32,7 +32,7 @@ I found the right path after realising I was always being asked to pick up the m
     <li><b>OS:</b> Windows, MacOS</li>
     <li><b>Laptop:</b> MacBook Pro</li>
     <li><b>Code Editor:</b> VSCode / Gitpod</li>
-    <li><b>To Stay Updated:</b> Youtube</li>
+    <li><b>To Stay Updated:</b> Youtube, Udemy's Courses</li>
     <li><b>My Helping Hands:</b> StackoverFlow, GeeksforGeeks and W3schools</li>
     <li><b> Books References:</b>
     <br>
