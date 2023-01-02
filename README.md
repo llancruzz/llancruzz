@@ -25,6 +25,7 @@ I found the right path after realising I was always being asked to pick up the m
 <code><img src="https://raw.githubusercontent.com/llancruzz/llancruzz/0e72ca41bc2e948b02a6aa1dc0671de40222bf2f/python-original.svg" width="40" title="Python"></code>
 <code><img src="https://raw.githubusercontent.com/llancruzz/llancruzz/0e72ca41bc2e948b02a6aa1dc0671de40222bf2f/github.svg" width="40" title="github"></code>
 <code><img src="https://raw.githubusercontent.com/llancruzz/llancruzz/main/37021919.png" width="40" title="gitpod"></code>
+<code><img src="https://user-images.githubusercontent.com/60085587/106137230-6dc8e780-6190-11eb-96a6-e8b8a5d71d79.png"></code>
 
 ### ⚙️ Things I use to get stuff done
 
