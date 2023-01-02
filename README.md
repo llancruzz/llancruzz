@@ -25,7 +25,13 @@ I found the right path after realising I was always being asked to pick up the m
 <code><img src="https://raw.githubusercontent.com/llancruzz/llancruzz/0e72ca41bc2e948b02a6aa1dc0671de40222bf2f/python-original.svg" width="40" title="Python"></code>
 <code><img src="https://raw.githubusercontent.com/llancruzz/llancruzz/0e72ca41bc2e948b02a6aa1dc0671de40222bf2f/github.svg" width="40" title="github"></code>
 <code><img src="https://raw.githubusercontent.com/llancruzz/llancruzz/main/37021919.png" width="40" title="gitpod"></code>
-<code><img src="https://user-images.githubusercontent.com/60085587/106137230-6dc8e780-6190-11eb-96a6-e8b8a5d71d79.png"></code>
+<code><img src="https://user-images.githubusercontent.com/60085587/106137227-6c97ba80-6190-11eb-97c3-2c3b991b36df.png" width="40" title="MySQL"></code>
+<code><img src="https://user-images.githubusercontent.com/60085587/106137217-699cca00-6190-11eb-9c24-68e76ccb9376.png" width="40" title="REST API">
+</code>
+<code><img src="https://user-images.githubusercontent.com/82349074/167176745-8b172f64-8399-4898-b1c0-f02f69dbe571.png" width="50" title="Docker"></code>
+<code><img src="https://user-images.githubusercontent.com/60085587/106137222-6b668d80-6190-11eb-9a8e-afb462609d39.png" width="40" title="Git"></code>
+<code><img src="https://user-images.githubusercontent.com/60085587/106137236-6efa1480-6190-11eb-89a0-e0e18efc6ac1.png" width="40" title="Visual Code Studio"></code>
+
 
 ### ⚙️ Things I use to get stuff done
 
