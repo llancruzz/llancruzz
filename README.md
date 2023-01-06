@@ -31,6 +31,9 @@ I found the right path after realising I was always being asked to pick up the m
 <code><img src="https://user-images.githubusercontent.com/82349074/167176745-8b172f64-8399-4898-b1c0-f02f69dbe571.png" width="50" title="Docker"></code>
 <code><img src="https://user-images.githubusercontent.com/60085587/106137222-6b668d80-6190-11eb-9a8e-afb462609d39.png" width="40" title="Git"></code>
 <code><img src="https://user-images.githubusercontent.com/60085587/106137236-6efa1480-6190-11eb-89a0-e0e18efc6ac1.png" width="40" title="Visual Code Studio"></code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></code>
+<code>img src="https://brandeps.com/logo-download/M/Materialize-CSS-logo-vector-01.svg" width="40" title="materialize"></code>
 
 
 ### ⚙️ Things I use to get stuff done
