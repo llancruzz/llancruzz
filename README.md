@@ -60,4 +60,3 @@ I found the right path after realising I was always being asked to pick up the m
 </a>
 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
