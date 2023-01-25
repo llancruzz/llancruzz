@@ -33,7 +33,7 @@ I found the right path after realising I was always being asked to pick up the m
 <code><img src="https://user-images.githubusercontent.com/60085587/106137236-6efa1480-6190-11eb-89a0-e0e18efc6ac1.png" width="40" title="Visual Code Studio"></code>
 <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></code>
-
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40"/></code>
 
 ### ⚙️ Things I use to get stuff done
 
