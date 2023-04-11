@@ -1,4 +1,4 @@
-![Alan Banner](https://raw.githubusercontent.com/llancruzz/llancruzz/main/alan-banner.png)
+![Alan Banner](https://media.licdn.com/dms/image/C4D16AQHbt-lKtVLCdQ/profile-displaybackgroundimage-shrink_350_1400/0/1656316605085?e=1686787200&v=beta&t=KJOgNGTetDUxMm-do4BStfE0XwZO7KHz_54VXFJXrnM)
 
 ### Hello There 🌎
  
