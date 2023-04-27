@@ -50,6 +50,22 @@ I found the right path after realising I was always being asked to pick up the m
  <li>Python Crash Course - By Eric Matthes (Author)</li>
 </ol>
 
+### Milestone Projects for Code Institute Full-Stack Software Developer Diploma.
+
+<details>
+<summary>Click here to view a summary of my Milestone Projects</summary>
+
+| Milestone No.   | Project | Description |
+| :-----------: | :-----------: | :-----------: |
+| 1 | <p><a href="https://github.com/llancruzz/hike-style"><img src="https://github.com/llancruzz/hike-style/blob/main/assets/media/responsive.png"></a></p><p>**The Hike Style's**</p> | <p>The Hike Style’s is a site about a social community among people who want to practice outdoor sports between nature and who want to share incredible and unique moments.. Created using HTML and CSS. |
+| 2 | <p><a href="https://github.com/llancruzz/time-quiz"><img src="https://github.com/llancruzz/time-quiz/blob/main/assets/images/responsive.png"></a></p><p>**The Quiz Time!**</p> | <p>The Quiz Time is a website about personality quizzes. It is about testing how you spend your time. That is, how well you manage your time. Created with HTML, CSS, JavaScript & jQuery. |
+| 3 | <p><a href="https://github.com/llancruzz/the-scary-movie"><img src="https://github.com/llancruzz/the-scary-movie/blob/main/media/responsive.png"></a></p><p>**The Scary Movie**</p> | <p>The Scary Movie website is a CLI developed with Python language. The site is about a list of some available horror movies where the user must select which movie he/she will book to watch.</p> |
+| 4 | <p><a href="https://github.com/llancruzz/share-story"><img src="https://github.com/llancruzz/share-story/blob/main/media/responsive-web.png"></a></p><p>**Share Your Story**</p> | <p>The Share Your Story blog is a website for people who want to read about guides and experiences in so many places about others people. Created with Python, bootstrap and Django Framework. </p> |
+| 5 | <p><a href="https://github.com/llancruzz/hogwarts"><img src="https://github.com/llancruzz/hogwarts/blob/main/docs/responsive-web.png"></a></p><p>**Hogwarts**</p> | <p>Hogwarts is a social media platform that has been created based on the beloved Harry Potter saga. Created with Python, Django Rest Framework for its API Backend and React Javascript libray for its Frontend.</p> |
+</details>
+
+- - -
+
 ### 🔄 Underway
 
 ![Alan Cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=llancruzz&show_icons=true&theme=prussian)
