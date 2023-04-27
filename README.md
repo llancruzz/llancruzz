@@ -51,7 +51,7 @@ I found the right path after realising I was always being asked to pick up the m
  <li>Python Crash Course - By Eric Matthes (Author)</li>
 </ol>
 
-### Milestone Projects for Code Institute Full-Stack Software Developer Diploma.
+### Milestone Projects for Code Institute [Full-Stack Software Developer](https://codeinstitute.net/ie/full-stack-software-development-diploma/) Diploma.
 
 <details>
 <summary>Click here to view a summary of my Milestone Projects</summary>
