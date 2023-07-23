@@ -14,6 +14,7 @@ I found the right path after realising I was always being asked to pick up the m
 
 ### 📫 How to reach me:
 <code><a href="https://www.linkedin.com/in/llancruzz"><img src="https://user-images.githubusercontent.com/60085587/106135088-766bee80-618d-11eb-9a86-cf9ca3ba565b.png" width="40" title="Linkedin"></a></code>
+<code><a href="alancruzsilva@gmail.com"><img src="https://user-images.githubusercontent.com/60085587/106135086-753ac180-618d-11eb-800b-25533f481237.png" width="40" title="Gmail"></a></code>
 <code><a href="https://stackoverflow.com/users/19213456/alan-cruz" target="_blank"> <img src="https://user-images.githubusercontent.com/82349074/167174810-3ee451b0-1392-4c72-bcfd-d725e7a82b86.png" width="40" title="Stack overflow"></a></code>
 
 ### 👨🏻‍💻 Stack 
