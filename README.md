@@ -1,5 +1,7 @@
 ![Alan Banner](https://media.licdn.com/dms/image/C4D16AQHbt-lKtVLCdQ/profile-displaybackgroundimage-shrink_350_1400/0/1656316605634?e=1716422400&v=beta&t=ZzvrA4GOxcQuBTcTLOQjhMp1quXh3IqlykqeP6dKeFE)
 
+![](https://komarev.com/ghpvc/?username=llancruzz)
+
 ### Hello There 🌎
  
 I'm Alan Cruz, a graduate <strong>Full Stack Software Developer</strong> based in Ireland. ( Start: April / 2022 - End: April / 2023 )
