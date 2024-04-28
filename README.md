@@ -1,16 +1,17 @@
 ![Alan Banner](https://media.licdn.com/dms/image/C4D16AQHbt-lKtVLCdQ/profile-displaybackgroundimage-shrink_350_1400/0/1656316605634?e=1716422400&v=beta&t=ZzvrA4GOxcQuBTcTLOQjhMp1quXh3IqlykqeP6dKeFE)
 
 ![](https://komarev.com/ghpvc/?username=llancruzz)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer)]()
 
 ### Hello There 🌎
  
-I'm Alan Cruz, a graduate <strong>Full Stack Software Developer</strong> based in Ireland. ( Start: April / 2022 - End: April / 2023 )
+I'm Alan Cruz, a graduate <strong>Full Stack Software Developer</strong> based in Ireland. Currently, I'm pursuing my <strong>MBA in Software Engineering</strong> at the prestigious [University of São Paulo (USP)](https://www5.usp.br/), blending practical industry experience with advanced academic insights.
 
 Passionate <strong>Full Stack Software Developer</strong> in progress with a background in Business Administration, HR (Human Resources) and Accounting. 
 
-After a number of years, I've finally found what I wish I has been doing all along - Better late than never!
+After many years, I've finally found what I wish I had been doing all along - Better late than never!
 
-I found the right path after realising I was always being asked to pick up the more technical aspects of projects and enjoyed carrying them out. I've always liked technologies, design and always learning new skills. After some research and guidance from others in the industry, I enrolled with the [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma-uk/)
+I found the right path after realising I was always being asked to pick up the more technical aspects of projects and enjoyed carrying them out. I've always liked technology, design and always learning new skills. After some research and guidance from others in the industry, I enrolled with the [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma-uk/). 
 
 <em>So here I am, learning everything I can right now, figuring out the problems as I go and looking forward to the new world ahead.</em> 
 
@@ -67,6 +68,20 @@ I found the right path after realising I was always being asked to pick up the m
 | 4 | <p><a href="https://github.com/llancruzz/share-story"><img src="https://github.com/llancruzz/share-story/blob/main/media/responsive-web.png"></a></p><p>**Share Your Story**</p> | <p>The Share Your Story blog is a website for people who want to read about guides and experiences in so many places about others people. Created with Python, bootstrap and Django Framework. </p> |
 | 5 | <p><a href="https://github.com/llancruzz/hogwarts"><img src="https://github.com/llancruzz/hogwarts/blob/main/docs/responsive-web.png"></a></p><p>**Hogwarts**</p> | <p>Hogwarts is a social media platform that has been created based on the beloved Harry Potter saga. Created with Python, Django Rest Framework for its API Backend and React Javascript libray for its Frontend.</p> |
 </details>
+
+### Hackathon Projects
+
+Participating in my first hackathon had me on edge, but, was it a ride! Snagged third place and loved every minute of collaborating with fellow hackers under tight deadlines, using sprints and agile methods. It's pure adrenaline and totally worth it!
+
+<details>
+<summary>Click here to view a summary of my Hackathon Projects</summary>
+  
+
+| Date, Theme & Organiser   | Hackathon Project | Place |
+| :--------: | :-----------: | :--------------: |
+| <p>March 2024:</p><p><a href="https://hackathon.codeinstitute.net/teams/415/">World Happiness Day</a></p><p>Organised by the Code Institute</p>| <p><a href="hhttps://positivity-programmers.github.io/Hackathon-Affirmations/"><img src="https://raw.githubusercontent.com/Positivity-Programmers/Hackathon-Affirmations/main/images/amIresponsive.png"></a></p><p>A Responsive Application for users to View Daily affirmations, Positive quotes, Well Being Articles and Generate Mindful Emails. <br><a href="https://positivity-programmers.github.io/Hackathon-Affirmations/">Live Site</a> <br><a href="https://github.com/Positivity-Programmers/Hackathon-Affirmations">Repo</a> | <a href="https://eu.badgr.com/public/assertions/dCQ1kIW9SPSj3W0KoPXIjQ?identity__email=alancruzsilva@gmail.com"><img src="https://media.licdn.com/dms/image/D4E2DAQEdobcQjHOI-g/profile-treasury-image-shrink_1920_1920/0/1711539859938?e=1714917600&v=beta&t=tRihv1EBk-v4H_9TKhbup1JKb1VyoZ-bSUgMLWlWaBw"></a> |
+</details>
+
 
 - - -
 
