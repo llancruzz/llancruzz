@@ -1,4 +1,4 @@
-![Alan Banner](https://media.licdn.com/dms/image/C4D16AQHbt-lKtVLCdQ/profile-displaybackgroundimage-shrink_350_1400/0/1656316605634?e=1716422400&v=beta&t=ZzvrA4GOxcQuBTcTLOQjhMp1quXh3IqlykqeP6dKeFE)
+![Alan Banner](https://media.licdn.com/dms/image/D4E16AQG9FRX-ZYQ6Ew/profile-displaybackgroundimage-shrink_350_1400/0/1714322794863?e=1720051200&v=beta&t=xppcXU3le1WqcfHAjOa87qahaXqGhiOvV6yqvJCNDzs)
 
 ![](https://komarev.com/ghpvc/?username=llancruzz)
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer)]()
