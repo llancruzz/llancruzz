@@ -88,9 +88,5 @@ Participating in my first hackathon had me on edge, but, was it a ride! Snagged 
 
 ![Alan Cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=llancruzz&show_icons=true&theme=prussian)
      
-<a href="https://github.com/llancruzz">
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=llancruzz&show_icons=true&theme=prussian" alt="Alan GitHub Stats" /> -->
-  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=llancruzz&theme=prussian" alt="Alan Languages Used Stats" width="410" /></p>
-</a>
 
 
