@@ -5,7 +5,7 @@
 
 ### Hello There 🌎
  
-I'm Alan Cruz, a graduate <strong>Full Stack Software Developer</strong> Diploma program from [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma-uk/) based in Ireland. Currently, I'm pursuing my <strong>MBA in Software Engineering</strong> at the prestigious [University of São Paulo (USP)](https://www5.usp.br/), blending practical industry experience with advanced academic insights.
+I'm Alan Cruz, a graduate <strong>Full Stack Software Developer</strong> Diploma program from [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma-uk/) based in Ireland. Currently.
 
 Passionate <strong>Full Stack Software Developer</strong> in progress with a background in Business Administration, HR (Human Resources) and Accounting. 
 
