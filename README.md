@@ -16,43 +16,30 @@ I found the right path after realising I was always being asked to pick up the m
 <em>So here I am, learning everything I can right now, figuring out the problems as I go and looking forward to the new world ahead.</em> 
 
 ### 📫 How to reach me:
-<code><a href="https://www.linkedin.com/in/llancruzz"><img src="https://user-images.githubusercontent.com/60085587/106135088-766bee80-618d-11eb-9a86-cf9ca3ba565b.png" width="40" title="Linkedin"></a></code>
-<code><a href="alancruzsilva@gmail.com"><img src="https://user-images.githubusercontent.com/60085587/106135086-753ac180-618d-11eb-800b-25533f481237.png" width="40" title="Gmail"></a></code>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llancruzz)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alancruzsilva@gmail.com)
 
-### 👨🏻‍💻 Stack 
-#### Technologies & Tools
 
-<code><img src="https://raw.githubusercontent.com/llancruzz/llancruzz/0e72ca41bc2e948b02a6aa1dc0671de40222bf2f/html5-plain-wordmark.svg" width="40" title="HTML"></code>
-<code><img src="https://raw.githubusercontent.com/llancruzz/llancruzz/0e72ca41bc2e948b02a6aa1dc0671de40222bf2f/css3-plain-wordmark.svg" width="40" title="CSS"></code>
-<code><img src="https://raw.githubusercontent.com/llancruzz/llancruzz/0e72ca41bc2e948b02a6aa1dc0671de40222bf2f/javascript.svg" width="40" title="JavaScript"></code>
-<code><img src="https://raw.githubusercontent.com/llancruzz/llancruzz/0e72ca41bc2e948b02a6aa1dc0671de40222bf2f/python-original.svg" width="40" title="Python"></code>
-<code><img src="https://raw.githubusercontent.com/llancruzz/llancruzz/0e72ca41bc2e948b02a6aa1dc0671de40222bf2f/github.svg" width="40" title="github"></code>
-<code><img src="https://raw.githubusercontent.com/llancruzz/llancruzz/main/37021919.png" width="40" title="gitpod"></code>
-<code><img src="https://user-images.githubusercontent.com/60085587/106137227-6c97ba80-6190-11eb-97c3-2c3b991b36df.png" width="40" title="MySQL"></code>
-<code><img src="https://user-images.githubusercontent.com/60085587/106137217-699cca00-6190-11eb-9c24-68e76ccb9376.png" width="40" title="REST API">
-</code>
-<code><img src="https://user-images.githubusercontent.com/82349074/167176745-8b172f64-8399-4898-b1c0-f02f69dbe571.png" width="50" title="Docker"></code>
-<code><img src="https://user-images.githubusercontent.com/60085587/106137222-6b668d80-6190-11eb-9a8e-afb462609d39.png" width="40" title="Git"></code>
-<code><img src="https://user-images.githubusercontent.com/60085587/106137236-6efa1480-6190-11eb-89a0-e0e18efc6ac1.png" width="40" title="Visual Code Studio"></code>
-<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40"/></code>
-<code><img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" width="40"/></code>
+## 🛠️ Tech Stack  
+### **Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-### ⚙️ Things I use to get stuff done
+### **Backend**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=fastapi&logoColor=white)
 
-<ul>
-    <li><b>OS:</b> Windows, MacOS</li>
-    <li><b>Laptop:</b> MacBook Pro</li>
-    <li><b>Code Editor:</b> VSCode / Gitpod</li>
-    <li><b>To Stay Updated:</b> Youtube, Udemy's Courses</li>
-    <li><b>My Helping Hands:</b> StackoverFlow, GeeksforGeeks and W3schools</li>
-    <li><b> Books References:</b>
-    <br>
-<ol type="1">
- <li>HTML / CSS / Java Scripts & JQuery - By Jon Duckett (Author)</li>
- <li>Python Crash Course - By Eric Matthes (Author)</li>
-</ol>
+### **Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 
 ### Milestone Projects for Code Institute [Full-Stack Software Developer](https://codeinstitute.net/ie/full-stack-software-development-diploma/) Diploma.
 
