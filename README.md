@@ -41,7 +41,7 @@ I found the right path after realising I was always being asked to pick up the m
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
-### Milestone Projects for Code Institute [Full-Stack Software Developer](https://codeinstitute.net/ie/full-stack-software-development-diploma/) Diploma.
+### 🏆 Milestone Projects for Code Institute [Full-Stack Software Developer](https://codeinstitute.net/ie/full-stack-software-development-diploma/) Diploma.
 
 <details>
 <summary>Click here to view a summary of my Milestone Projects</summary>
@@ -55,7 +55,7 @@ I found the right path after realising I was always being asked to pick up the m
 | 5 | <p><a href="https://github.com/llancruzz/hogwarts"><img src="https://github.com/llancruzz/hogwarts/blob/main/docs/responsive-web.png"></a></p><p>**Hogwarts**</p> | <p>Hogwarts is a social media platform that has been created based on the beloved Harry Potter saga. Created with Python, Django Rest Framework for its API Backend and React Javascript libray for its Frontend.</p> |
 </details>
 
-### Hackathon Projects
+### 🚀 Hackathon Projects
 
 Participating in my first hackathon had me on edge, but, was it a ride! Snagged third place and loved every minute of collaborating with fellow hackers under tight deadlines, using sprints and agile methods. It's pure adrenaline and totally worth it!
 
